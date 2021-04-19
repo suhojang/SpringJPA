@@ -1,0 +1,63 @@
+[2021-04-19 09:36:14:1107][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 10640 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 09:36:14:1114][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 09:36:18:5036][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 4.772 seconds (JVM running for 5.529)
+[2021-04-19 09:45:05:701][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 5712 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 09:45:05:704][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 09:46:24:696][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 10244 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 09:46:24:699][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 09:46:27:3573][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 3.38 seconds (JVM running for 3.774)
+[2021-04-19 09:46:59:681][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 15116 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 09:46:59:683][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 09:47:03:3947][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 3.75 seconds (JVM running for 4.153)
+[2021-04-19 09:56:56:693][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 6084 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 09:56:56:695][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 09:58:45:675][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 14772 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 09:58:45:678][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 09:58:48:3987][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 3.788 seconds (JVM running for 4.192)
+[2021-04-19 09:59:15:676][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 15052 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 09:59:15:678][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 09:59:19:4436][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 4.239 seconds (JVM running for 4.64)
+[2021-04-19 10:03:56:731][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 372 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 10:03:56:734][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 10:04:00:4429][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 4.224 seconds (JVM running for 4.643)
+[2021-04-19 10:05:35:698][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 18644 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 10:05:35:700][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 10:05:38:4137][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 3.936 seconds (JVM running for 4.348)
+[2021-04-19 10:12:46:691][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 18304 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 10:12:46:693][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 10:12:49:4225][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 4.024 seconds (JVM running for 4.448)
+[2021-04-19 10:12:59:716][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 3528 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 10:12:59:718][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 10:13:03:4172][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 3.96 seconds (JVM running for 4.388)
+[2021-04-19 10:13:13:14547][http-nio-127.0.0.1-8081-exec-1] INFO  c.j.j.controller.BookController - books : [com.jsh.jpaExample.entity.Book@22e60fd2]
+[2021-04-19 10:15:21:706][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 15036 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 10:15:21:709][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 10:15:25:4371][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 4.172 seconds (JVM running for 4.581)
+[2021-04-19 10:15:28:7374][http-nio-127.0.0.1-8081-exec-1] INFO  c.j.j.controller.BookController - book : com.jsh.jpaExample.entity.Book@62bf751f
+[2021-04-19 10:15:58:702][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 17400 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 10:15:58:705][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 10:16:02:4153][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 3.951 seconds (JVM running for 4.364)
+[2021-04-19 10:16:07:8976][http-nio-127.0.0.1-8081-exec-1] INFO  c.j.j.controller.BookController - book : 한글책
+[2021-04-19 10:17:42:708][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 11024 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 10:17:42:710][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 10:17:45:4275][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 4.07 seconds (JVM running for 4.484)
+[2021-04-19 10:17:46:4807][http-nio-127.0.0.1-8081-exec-1] INFO  c.j.j.controller.BookController - com.jsh.jpaExample.entity.Book@14e6c881
+[2021-04-19 10:19:08:772][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 10208 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 10:19:08:775][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 10:19:12:4954][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 4.741 seconds (JVM running for 5.176)
+[2021-04-19 10:25:40:744][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 3284 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 10:25:40:747][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 10:25:44:4330][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 4.114 seconds (JVM running for 4.546)
+[2021-04-19 10:25:46:6958][http-nio-127.0.0.1-8081-exec-1] INFO  c.j.j.controller.BookController - Book{id=1, name='한글책', category='1', sellCount=0, createdAt=2021-04-19T10:05:42.152, updatedAt=2021-04-19T10:05:42.152}
+[2021-04-19 10:26:58:805][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 10340 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 10:26:58:815][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 10:27:02:4903][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 4.682 seconds (JVM running for 5.13)
+[2021-04-19 10:36:20:707][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 4996 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 10:36:20:710][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 10:36:23:4254][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 4.054 seconds (JVM running for 4.467)
+[2021-04-19 10:37:05:46304][http-nio-127.0.0.1-8081-exec-2] INFO  c.j.j.controller.BookController - Book{id=2, name='English', category='2', sellCount=0, createdAt=2021-04-19T10:37:05.898, updatedAt=2021-04-19T10:37:05.898}
+[2021-04-19 10:37:42:83043][http-nio-127.0.0.1-8081-exec-4] INFO  c.j.j.controller.BookController - Book{id=2, name='English2', category='2', sellCount=0, createdAt=null, updatedAt=2021-04-19T10:37:42.641}
+[2021-04-19 11:37:50:3691257][http-nio-127.0.0.1-8081-exec-4] INFO  c.j.j.controller.BookController - Book{id=3, name='Korean Book', category='1', sellCount=0, createdAt=2021-04-19T11:37:50.820, updatedAt=2021-04-19T11:37:50.820}
+[2021-04-19 13:01:11:893][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 12728 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 13:01:11:896][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 13:01:16:4921][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 4.665 seconds (JVM running for 5.16)
