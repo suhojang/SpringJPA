@@ -1,6 +1,6 @@
 ### Spring JPA
 
-- [Spring JPA](#Spring JPA)
+- Spring JPA
   * [ORM](#ORM)
   * [JPA](#JPA)
     + [장점](#장점)
