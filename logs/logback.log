@@ -61,3 +61,7 @@
 [2021-04-19 13:01:11:893][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 12728 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
 [2021-04-19 13:01:11:896][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
 [2021-04-19 13:01:16:4921][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 4.665 seconds (JVM running for 5.16)
+[2021-04-19 13:01:44:769][main] INFO  c.j.j.JpaExampleApplication - Starting JpaExampleApplication using Java 1.8.0_191 on DESKTOP-7ECUB86 with PID 13452 (D:\Documents\GitHub\jpaExample\build\classes\java\main started by DEV_PC in D:\Documents\GitHub\jpaExample)
+[2021-04-19 13:01:44:772][main] INFO  c.j.j.JpaExampleApplication - No active profile set, falling back to default profiles: default
+[2021-04-19 13:01:48:4453][main] INFO  c.j.j.JpaExampleApplication - Started JpaExampleApplication in 4.206 seconds (JVM running for 4.688)
+[2021-04-19 13:03:11:87211][http-nio-127.0.0.1-8081-exec-4] INFO  c.j.j.controller.BookController - Book{id=3, name='Korean Book2', category='1', sellCount=0, createdAt=null, updatedAt=2021-04-19T13:03:11.224}

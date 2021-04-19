@@ -1,5 +1,19 @@
 ### Spring JPA
 
+- [Spring JPA](#Spring JPA)
+  * [ORM](#ORM)
+  * [JPA](#JPA)
+    + [장점](#장점)
+    + [단점](#단점)  
+  * [Hibernate](#Hibernate)
+  * 사용 가이드
+    + [Dependency](#Dependency) && [Gradle](#Gradle)
+    + [Entity](#Entity생성)
+    + [Repository](#Repository생성)
+    + [Service](#Service생성)
+    + [RestController](#RestController생성)
+    + [GET](#GET), [POST](#POST), [PUT](#PUT), [DELETE](#DELETE)
+    
 #### ORM
   + Object-Relational Mapping(객체와 관계형 데이터베이스 Mapping, 객체와 DB의 Table이 Mapping을 이루는 것)
   + 객체가 Table이 되도록 Mapping 시켜주는 Framework 이다.
@@ -11,7 +25,7 @@
 
 #### JPA
   + Java Persistence API(JAVA ORM 기술에 대한 API 표준 명세)
-  + 한마디로 [ORM](#ORM)을 사용하기 위한 Interface를 모아둔 것이라고 볼 수 있다.
+  + 한마디로 ORM을 사용하기 위한 Interface를 모아둔 것이라고 볼 수 있다.
   + Java Application에서 관계형 DataBase를 사용하는 방식을 정의한 Interface이다.
   + ORM에 대한 Java API 규격이며 Hibernate, OpenJPA등이 JPA를 구현 한 구현체이다.
   + Hibernate 이외에도 EclipseLink, DataNucleus, OpenJPA, TopLink 등이 있다.
@@ -83,7 +97,7 @@ annotationProcessor 'org.projectlombok:lombok'
 testImplementation 'org.springframework.boot:spring-boot-starter-test'
 ```
 
-#### Entity 생성
+#### Entity생성
 ````java
 package com.jsh.jpaExample.entity;
 
@@ -137,7 +151,7 @@ public class Book {
 }
 ````
 
-#### Repository 생성
+#### Repository생성
 ````java
 package com.jsh.jpaExample.repository;
 
@@ -152,7 +166,7 @@ public interface BookRepository extends CrudRepository<Book, Long> {
 }
 ````
 
-#### Service 생성
+#### Service생성
 ````java
 package com.jsh.jpaExample.service;
 
@@ -210,7 +224,7 @@ public class BookServiceImpl implements BookService{
 }
 ````
 
-#### Rest Controller 생성
+#### RestController생성
 ````java
 package com.jsh.jpaExample.controller;
 
@@ -257,8 +271,8 @@ public class BookController {
 }
 ````
 
-#### post method call
-> curl post http://localhost:8081/book -h '{Content-Type: application/json}' -d '{"name": "Korean Book",
+#### POST
+> curl POST http://localhost:8081/book -h '{Content-Type: application/json}' -d '{"name": "Korean Book",
 "category": "1"}'
 ```groovy
 # Hibernate Query
@@ -275,8 +289,8 @@ book
 11:37 INFO  c.j.j.controller.BookController - Book{id=3, name='Korean Book', category='1', sellCount=0, createdAt=2021-04-19T11:37:50.820, updatedAt=2021-04-19T11:37:50.820}
 ```
 
-#### post method call
-> curl get http://localhost:8081/book
+#### GET
+> curl GET http://localhost:8081/book
 ````groovy
 # Hibernate Query
 Hibernate: 
@@ -297,8 +311,8 @@ Hibernate:
 Book{id=3, name='Korean Book', category='1', sellCount=0, createdAt=2021-04-19T11:37:50.820, updatedAt=2021-04-19T11:37:50.820}
 ````
 
-#### put method call
-> curl put http://localhost:8081/book -h '{Content-Type: application/json}' -d '{
+#### PUT
+> curl PUT http://localhost:8081/book -h '{Content-Type: application/json}' -d '{
 "name": "Korean Book2",
 "category": "1"
 }'
@@ -332,8 +346,8 @@ Hibernate:
 13:03 INFO  c.j.j.controller.BookController - Book{id=3, name='Korean Book2', category='1', sellCount=0, createdAt=null, updatedAt=2021-04-19T13:03:11.224}
 ```
 
-#### delete method call
-> curl delete http://localhost:8081/book -h '{Content-Type: application/json}' -d '{
+#### DELETE
+> curl DELETE http://localhost:8081/book -h '{Content-Type: application/json}' -d '{
 "name": "Korean Book2",
 "category": "1"
 }'
