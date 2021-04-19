@@ -14,10 +14,10 @@
     + [RestController](#RestController생성)
     + [GET](#GET), [POST](#POST), [PUT](#PUT), [DELETE](#DELETE)
   * Reference SITE
-    + [Spring Data JPA](#https://spring.io/projects/spring-data-jpa)
-    + [Accessing JPA Data with REST](#https://spring.io/guides/gs/accessing-data-rest/)
-    + [Accessing Data with JPA](#https://spring.io/guides/gs/accessing-data-jpa/)
-    + [Spring Data JPA Document](#https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#preface)    
+    + [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
+    + [Accessing JPA Data with REST](https://spring.io/guides/gs/accessing-data-rest/)
+    + [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+    + [Spring Data JPA Document](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#preface)    
 
 #### ORM
   + Object-Relational Mapping(객체와 관계형 데이터베이스 Mapping, 객체와 DB의 Table이 Mapping을 이루는 것)
