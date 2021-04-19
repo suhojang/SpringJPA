@@ -7,7 +7,7 @@
     + [단점](#단점)  
   * [Hibernate](#Hibernate)
   * 사용 가이드
-    + [Dependency](#Dependency) && [Gradle](#Gradle)
+    + [Dependency](#Dependency), [Gradle](#Gradle)
     + [Entity](#Entity생성)
     + [Repository](#Repository생성)
     + [Service](#Service생성)
